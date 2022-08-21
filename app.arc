@@ -7,4 +7,4 @@ remix-app-aws-try-2-b942
   src server
 
 @static
-prefix /mf-1
+prefix mf-2
