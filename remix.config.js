@@ -7,7 +7,7 @@ module.exports = {
   appDirectory: "app",
   cacheDirectory: "./node_modules/.cache/remix",
   assetsBuildDirectory: "public/build",
-  publicPath: "/mf-1/_static/build/",
+  publicPath: "/_static/mf-2/build/",
   serverBuildTarget: "arc",
   server: "./server.ts",
   ignoredRouteFiles: ["**/.*", "**/*.css", "**/*.test.{js,jsx,ts,tsx}"],
